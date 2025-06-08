@@ -40,10 +40,10 @@ windows-curses==2.4.1
 Durante o jogo, você pode usar as seguintes teclas:
 
 - `A`, `W`, `S`, `D` → Mover o cursor (esquerda, cima, baixo, direita)  
-- `L` → Marcar a posição atual com "X"  
+- `Enter` → Marcar a posição atual com "X"  
 - `Y` → Reiniciar o jogo  
 - `H` → Exibir a tela de ajuda  
-- `Espaço` ou `Q` → Sair do jogo  
+- `Q` → Sair do jogo  
 
 ---
 
@@ -55,7 +55,7 @@ Este projeto é **livre**. Você pode jogar, modificar e compartilhar à vontade
 
 ## 👨‍💻 Autor
 
-Feito por **Rafael Nunes**  
+Feito por **Rafael Rodrigues**  
 GitHub: [@Rafael-RS](https://github.com/Rafael-RS)
 
 ---
