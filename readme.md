@@ -47,6 +47,20 @@ Durante o jogo, você pode usar as seguintes teclas:
 
 ---
 
+## 🚧 Roadmap
+
+- [x] Versão inicial com jogo básico (jogador X vs robô O aleatório)  
+- [ ] Permitir jogo para 2 jogadores na mesma máquina  
+- [ ] Implementar jogo para 2 jogadores via LAN (rede local)  
+- [ ] Desenvolver uma IA mais inteligente para o robô  
+- [ ] Criar interface gráfica (GUI)  
+- [ ] Melhorar ajuda e tutorial dentro do jogo  
+- [ ] Suporte multiplataforma aprimorado (Linux, macOS, Windows)  
+- [ ] Criar testes automatizados para o código  
+- [ ] Documentação detalhada do código e contribuições
+
+---
+
 ## 📜 Licença
 
 Este projeto é **livre**. Você pode jogar, modificar e compartilhar à vontade.
